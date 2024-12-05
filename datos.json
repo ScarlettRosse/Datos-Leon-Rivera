@@ -1,0 +1,13 @@
+[
+    {
+    "run": "20.068.680-2",
+    "nombre": "Leon",
+    "apellido": "Rivera",
+    "direccion": "los corchos 1040",
+    "fono": 56913523,
+    "correo":"56942536840",
+    "montoCredito": 1000000,
+    "deuda":500000,
+    "tipo": 3
+    }
+    ]
